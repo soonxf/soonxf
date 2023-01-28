@@ -20,11 +20,6 @@
 <!-- Self introduction 自我介绍 -->
 #  🙋 Hello
 
-
-
-<!-- just img 图片 -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
-
 <!--  skill badge 技能徽章 -->
 💪 正在学习
 
@@ -86,21 +81,7 @@
 <!-- profile-3d-contrib 3D贡献图-->
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" /></div>
 
-<!-- just img 图片 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" alt="Man Running" width="250" height="250" /></div>
 
-<!-- Spotify 音乐 -->
-<div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" />&emsp;&emsp;&emsp;&emsp;&emsp;
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k53kp6hgkbovg72427dya5av44&cover_image=true&theme=default&show_offline=false&background_color=121212" />
-  &emsp;&emsp;&emsp;&emsp;&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" />
-</div>
-
-<!-- just img 图片 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coffee.gif" alt="coffee" /></div><br>
-
-<!-- Joke 笑话 -->
-<div align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
@@ -109,12 +90,7 @@
   &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 </div><br>
 
-<!-- metrics 基础资料 -->
-<div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />&emsp;
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/base.svg" />
-  &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
-</div><br>
+
 
 <!-- My Blog 博客首页 -->
 <div align="center" >
