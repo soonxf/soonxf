@@ -107,9 +107,6 @@
 <!-- just img 图片-->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 
-<!-- profile-3d-contrib 3D贡献图-->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" /></div>
-
 <!-- wakatime 统计 -->
 <table align="center">
 <tr>
