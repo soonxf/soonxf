@@ -20,7 +20,7 @@
 <!-- Self introduction 自我介绍 -->
 <h2 align="center">
 
-```text
+```diff
 点科技蜡烛,烧电子纸钱,敲智能木鱼
 见代码佛祖,取前端真经,得享永无 BUG 之福
 ```
