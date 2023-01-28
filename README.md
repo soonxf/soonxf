@@ -19,6 +19,11 @@
 
 <!-- Self introduction 自我介绍 -->
 <h2 align="center">
+
+```text
+点科技蜡烛,烧电子纸钱,敲智能木鱼
+见代码佛祖,取前端真经,得享永无 BUG 之福
+```
   
 ```diff
 ................ 阿耨多罗三藐三菩提 .................
@@ -108,9 +113,10 @@
 <!-- wakatime 统计 -->
 <table align="center">
 <tr>
+
 <td valign="top">  
 
-
+<tr>
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
