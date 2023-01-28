@@ -1,9 +1,9 @@
 <!-- dynamic typing effect 动态打字效果 -->
-<h1 align="center">
+<!-- <h1 align="center">
   <a href="https://blog.340200.xyz">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!!&center=true&size=27" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;!&center=true&size=27" />
   </a>
-</h1>
+</h1> -->
 
 <!-- knock code pictures 敲代码的图片 -->
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /></div><br>
@@ -18,7 +18,31 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /></div>
 
 <!-- Self introduction 自我介绍 -->
-#  🙋 Hello
+  
+```diff
+................ 阿耨多罗三藐三菩提 .................
+
+                      _oo0oo_                      
+                     o8888888o                     
+                     88" . "88                     
+                     (| -_- |)                     
+                     0\\  =  /0                    
+                  ___/‘---’\\___                   
+                 .' \\|       |/ '.                
+                / \\\\|||  :  |||// \\             
+               / _||||| -卍-|||||_ \\              
+              |   | \\\\\\  -  /// |   |           
+              | \\_|  ''\\---/''  |_/ |            
+              \\  .-\\__  '-'  ___/-. /            
+            ___'. .'  /--.--\\  '. .'___           
+        ."" ‘<  ‘.___\\_<|>_/___.’>’ "".           
+      | | :  ‘- \\‘.;‘\\ _ /’;.’/ - ’ : | |        
+        \\  \\ ‘_.   \\_ __\\ /__ _/   .-’ /  /    
+   =====‘-.____‘.___ \\_____/___.-’___.-’=====     
+                      ‘=---=’                      
+                                                   
+................. 佛祖保佑 永无 BUG ................
+```
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
@@ -27,7 +51,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
-
 
 
 🧰 常用的工具
@@ -85,7 +108,8 @@
 <table align="center">
 <tr>
 <td valign="top">  
-  
+
+
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -113,7 +137,7 @@ Sunday       40 commits     ██░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Shanghai
+⌚︎ Time Zone: Asia/wuhu
 
 💬 Programming Languages: 
 Markdown                 27 hrs 19 mins      █████████████████████░░░░   84.52% 
@@ -143,31 +167,7 @@ Linux                    3 hrs 23 mins       ██░░░░░░░░░�
 <!-- Programming isn't about what you know -->
 
 <h2 align="center">
-  
-```diff
-................ 阿耨多罗三藐三菩提 .................
 
-                      _oo0oo_                      
-                     o8888888o                     
-                     88" . "88                     
-                     (| -_- |)                     
-                     0\\  =  /0                    
-                  ___/‘---’\\___                   
-                 .' \\|       |/ '.                
-                / \\\\|||  :  |||// \\             
-               / _||||| -卍-|||||_ \\              
-              |   | \\\\\\  -  /// |   |           
-              | \\_|  ''\\---/''  |_/ |            
-              \\  .-\\__  '-'  ___/-. /            
-            ___'. .'  /--.--\\  '. .'___           
-        ."" ‘<  ‘.___\\_<|>_/___.’>’ "".           
-      | | :  ‘- \\‘.;‘\\ _ /’;.’/ - ’ : | |        
-        \\  \\ ‘_.   \\_ __\\ /__ _/   .-’ /  /    
-   =====‘-.____‘.___ \\_____/___.-’___.-’=====     
-                      ‘=---=’                      
-                                                   
-................. 佛祖保佑 永无 BUG ................
-```
 
 </h4>  
 
