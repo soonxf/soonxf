@@ -1,6 +1,6 @@
 <!-- dynamic typing effect 动态打字效果 -->
 <h1 align="center">
-  <a href="https://blog.sunguoqi.com/">
+  <a href="https://blog.340200.xyz">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!!&center=true&size=27" />
   </a>
 </h1>
@@ -94,7 +94,7 @@
 
 <!-- My Blog 博客首页 -->
 <div align="center" >
-  <a href="https://blog.sunguoqi.com"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/pagespeed.screenshot.svg" /></a>
+  <a href="https://blog.340200.xyz"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/pagespeed.screenshot.svg" /></a>
 </div>
 
 <!-- Quotes 名人名言 -->
