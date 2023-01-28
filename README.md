@@ -1,9 +1,9 @@
 <!-- dynamic typing effect 动态打字效果 -->
-<!-- <h1 align="center">
+<h1 align="center">
   <a href="https://blog.340200.xyz">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;!&center=true&size=27" />
   </a>
-</h1> -->
+</h1>
 
 <!-- knock code pictures 敲代码的图片 -->
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /></div><br>
@@ -18,6 +18,7 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /></div>
 
 <!-- Self introduction 自我介绍 -->
+<h2 align="center">
   
 ```diff
 ................ 阿耨多罗三藐三菩提 .................
@@ -165,9 +166,6 @@ Linux                    3 hrs 23 mins       ██░░░░░░░░░�
 </table>
 
 <!-- Programming isn't about what you know -->
-
-<h2 align="center">
-
 
 </h4>  
 
